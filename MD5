@@ -1,0 +1,13 @@
+acb12ab2932a650b85e70f8ec86800b2 *DESCRIPTION
+e81377cf85710c60f3df25e1af457d8f *NAMESPACE
+832b0f77c5489c190b55238d8cf8fcce *R/RcppExports.R
+efa91ab577a4b48d6c58771d205aea6e *R/sourcecode.R
+b755734ee56a7f4ec0096db2d9738eb2 *data/teenpov.RData
+1fb1f2e6cf7de38dd592eb2e5cda4e04 *man/cglm.Rd
+18b04994cebeb13bf49f40f53149564b *man/print.summary.cglm.Rd
+3f5f8f9fc494c05562a522953574b890 *man/summary.cglm.Rd
+b20f64237fed8d2aa9625fa8baa55697 *man/teenpov.Rd
+6bcee6df7622505b45514c7fcc990ff2 *src/Makevars
+6bcee6df7622505b45514c7fcc990ff2 *src/Makevars.win
+25783a2d89f6f0a08d4f3e527f8dd21b *src/RcppExports.cpp
+2d4fbd8ce6168e0127c6c542240157f2 *src/llfun.cpp
