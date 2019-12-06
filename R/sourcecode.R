@@ -34,7 +34,7 @@ cglm <- function(method, formula, data, id, link, ...){
     convergence <- fit$convergence==0
     coefficients <- fit$par
     var <- try(solve(fit$hessian))
-    if(class(var)=="try-error"){
+    if(inherits(x=var, what="try-error")){
       var <- matrix(nrow=nbeta, ncol=nbeta)
       convergence <- FALSE
     }    

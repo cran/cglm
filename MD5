@@ -1,9 +1,10 @@
-acb12ab2932a650b85e70f8ec86800b2 *DESCRIPTION
+aebf7e12f724b0ab06508ab3a4ae6883 *DESCRIPTION
 e81377cf85710c60f3df25e1af457d8f *NAMESPACE
 832b0f77c5489c190b55238d8cf8fcce *R/RcppExports.R
-efa91ab577a4b48d6c58771d205aea6e *R/sourcecode.R
+65b7648286429bf2851ac0a35249b2dc *R/sourcecode.R
 b755734ee56a7f4ec0096db2d9738eb2 *data/teenpov.RData
-1fb1f2e6cf7de38dd592eb2e5cda4e04 *man/cglm.Rd
+c768fd438a6e6ae44ab18d8f24b9b826 *inst/NEWS.Rd
+9e63c7c850b3eedd885994db3a7f1466 *man/cglm.Rd
 18b04994cebeb13bf49f40f53149564b *man/print.summary.cglm.Rd
 3f5f8f9fc494c05562a522953574b890 *man/summary.cglm.Rd
 b20f64237fed8d2aa9625fa8baa55697 *man/teenpov.Rd

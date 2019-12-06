@@ -88,7 +88,8 @@ Sjolander A. (2017). The case-time-control method for non-binary exposures.
 \emph{Sociological Methodology} \bold{47}(1), 182-211.
 
 Sjolander A., Ning Y. (2018). A general and robust estimation method for 
-the case-time-control design. Draft.
+the case-time-control design. 
+\emph{Sociological Methodology} \bold{49}(1), 349-365.
 
 }
 
